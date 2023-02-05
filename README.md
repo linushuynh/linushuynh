@@ -20,9 +20,14 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 </div>
 
-### While you're here, check out some of my projects in the pinned section below!
+<br />
 
-### Here's a link to my portfolio as well: 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=linushuynh)](https://github.com/linushuynh) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linushuynh&layout=compact)](https://github.com/linushuynh)
+
+
+### Here's a link to my portfolio which has links to all the pinned projects below: 
 ### [https://linushuynh.dev/](https://linushuynh.dev/)
 <!--
 **linushuynh/linushuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

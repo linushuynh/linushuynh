@@ -22,7 +22,7 @@
 
 ### While you're here, check out some of my projects in the pinned section below!
 
-#### Here's a link to my portfolio as well: 
+### Here's a link to my portfolio as well: 
 ### [https://linushuynh.dev/](https://linushuynh.dev/)
 <!--
 **linushuynh/linushuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

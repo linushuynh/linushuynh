@@ -21,24 +21,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linushuynh&layout=compact)](https://github.com/linushuynh) -->
 
+## 🔭 Current Work:
 
-### 📁My Portfolio w/ Pinned Projects
+### **_Volunteer Developer for curaJOY_**
+<a href="https://www.curajoy.org/"><img src="https://github.com/linushuynh/linushuynh/assets/109188075/38026019-9390-4842-9461-f23cd28f0870" width="150"></a>
+
+<div style="display: flex">
+	<a href="https://www.democracylab.org/projects/1005"><img src="https://github.com/linushuynh/linushuynh/assets/109188075/95e72292-873c-43d2-91a8-a637909afd69" width="50"></a>
+	<a href="https://github.com/curaJOY"><img src="https://github.com/linushuynh/linushuynh/assets/109188075/e4b8248b-77b6-4abe-ae97-12c7bba8beb4" width="50"></a>
+	<a href="https://www.linkedin.com/company/curajoy"><img src="https://github.com/linushuynh/linushuynh/assets/109188075/65fab3e2-6173-4344-9bb2-b07dad8a70eb" width="50"></a>
+</div>
+
+<br />
+
+## 📁My Portfolio w/ Pinned Projects
 ### [https://linushuynh.dev/](https://linushuynh.dev/)
 
-<hr />
 
 ## <img src="https://user-images.githubusercontent.com/109188075/216542768-d10cdb3f-2467-4943-9d98-053dc8b1053f.gif" width="400"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-<!--
-**linushuynh/linushuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
